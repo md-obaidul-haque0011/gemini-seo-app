@@ -71,13 +71,6 @@ sequenceDiagram
 
 ---
 
-## 🚀 Getting Started
 
-Make sure you have:
-
-- Node.js ≥ v18
-- Your Gemini API key from [Google AI Studio](https://aistudio.google.com/app/apikey)
-
-Then follow the full setup guide included in your repository to get started locally or deploy via GitHub Pages.
 
 ---
